@@ -1,0 +1,38 @@
+.settings label {
+  width: 175px;
+  display: block;
+  float: left;
+  font-weight: bold; }
+  .settings label span {
+    display: block;
+    font-size: 0.85em;
+    font-weight: normal; }
+.settings input[type='text'], .settings input[type='email'], .settings textarea, .settings select {
+  min-width: 300px;
+  border: 1px solid rgba(0, 0, 0, 0.2); }
+.settings h3 {
+  margin: 10px 0;
+  padding: 0; }
+.settings section {
+  margin-bottom: 30px; }
+.settings .wp-editor-wrap {
+  float: left;
+  max-width: 600px !important; }
+.settings .placeholders {
+  float: left;
+  padding: 10px 20px; }
+  .settings .placeholders a {
+    display: block;
+    padding: 5px; }
+  .settings .placeholders h4 {
+    font-size: 14px;
+    margin-bottom: 5px; }
+
+.postbox label {
+  font-weight: bold;
+  width: 100px;
+  display: inline-block; }
+.postbox span {
+  display: inline-block; }
+
+/*# sourceMappingURL=admin.css.map */
